@@ -1,0 +1,24 @@
+.box {
+  width: 100%;
+}
+.box .box_left {
+  width: 50%;
+  display: inline-block;
+}
+.box .box_right {
+  width: 50%;
+  display: inline-block;
+}
+.box .scroll_item {
+  height: 300rpx;
+  overflow: hidden;
+}
+.box .scroll_item .box_ft {
+  font-weight: 600;
+  background-color: pink;
+  height: 50rpx;
+}
+.green {
+  background-color: #808080;
+}
+

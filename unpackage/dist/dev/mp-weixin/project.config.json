@@ -1,0 +1,65 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.9.2",
+	"appid": "touristappid",
+	"projectname": "test",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"style": {
+						"navigationBarTitleText": "首页"
+					},
+					"id": 0,
+					"pathName": "pages/index/index"
+				},
+				{
+					"style": {
+						"navigationBarTitleText": "商城"
+					},
+					"id": 1,
+					"pathName": "pages/shop/shop"
+				},
+				{
+					"style": {
+						"navigationBarTitleText": "购物车"
+					},
+					"id": 2,
+					"pathName": "pages/cart/cart"
+				},
+				{
+					"style": {
+						"navigationBarTitleText": "用户"
+					},
+					"id": 3,
+					"pathName": "pages/home/home"
+				}
+			]
+		}
+	}
+}

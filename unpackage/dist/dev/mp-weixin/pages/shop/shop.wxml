@@ -1,0 +1,1 @@
+<txt vue-id="1" massage="{{mag}}" data-event-opts="{{[['^prent',[['prents']]]]}}" bind:prent="__e" bind:__l="__l"></txt>

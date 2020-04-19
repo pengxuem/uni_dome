@@ -1,0 +1,1 @@
+<view><text>{{"你好!"+massage}}</text><button type="primary" data-event-opts="{{[['tap',[['prents',['$event']]]]]}}" bindtap="__e">点击</button></view>
